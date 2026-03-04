@@ -25,8 +25,8 @@ This happens because the chip blocks the debugger from reading system registers 
 ### Setup
 1. Create environment: `python -m venv .venv`
 2. Activate the environment:
-Windows: .\.venv\Scripts\Activate.ps1
-Linux/Mac: source .venv/bin/activate
+- Windows: `.\.venv\Scripts\Activate.ps1`
+- Linux/Mac: `source .venv/bin/activate`
 
 3. Install: `pip install -r requirements.txt`
 
